@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## react-redux-router4-saga-authorisation
 
 ## Features
 
@@ -15,8 +15,10 @@
  * /client/myRedux page is an simple example for showing how to make an own redux store inspired by learning redux sourccode and tutorials.
  * logout is to show how to clear sessionStorage and react-router do programtically navigation.
 
+## How to run
 
-=======
-# react-redux-router-saga-authorisation
-react-redux-router-saga-authorisation
->>>>>>> 41966c3aa398e6b04dd33b61bf94eba0e1fc4504
+ * git clone https://github.com/luckyjack3003/react-redux-router-saga-authorisation.git
+ * npm install
+ * npm start
+
+
