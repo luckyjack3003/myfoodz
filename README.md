@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Features
 
@@ -15,3 +16,7 @@
  * logout is to show how to clear sessionStorage and react-router do programtically navigation.
 
 
+=======
+# react-redux-router-saga-authorisation
+react-redux-router-saga-authorisation
+>>>>>>> 41966c3aa398e6b04dd33b61bf94eba0e1fc4504
