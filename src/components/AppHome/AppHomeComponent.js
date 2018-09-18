@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 
 class AppHomeComponent extends Component {
+
     render() {
         const { photo, error } = this.props;
 

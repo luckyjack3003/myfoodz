@@ -1,5 +1,5 @@
 ## react-redux-router4-saga-authorisation
-
+![Alt text](public/images/Screenshot from 2018-09-18 18-02-26.png?raw=true "Title")
 ## Features
 
 * Powered by [react][] **16.4.2** & [redux][] **5.0.7** & [react-router-dom][] **5.0.7**
@@ -20,5 +20,4 @@
  * git clone https://github.com/luckyjack3003/react-redux-router-saga-authorisation.git
  * npm install
  * npm start
-
 
