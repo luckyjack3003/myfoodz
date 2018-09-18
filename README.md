@@ -12,10 +12,10 @@
 ![Footer](https://github.com/luckyjack3003/myfoodz/blob/master/public/images/Screenshot%20from%202018-09-18%2018-03-36.png)
 
 ## The plan in the future
-   ** Finish the rest pages developing
-   ** Add unit testing cases
-   ** Using sass to replace css
-   ** Module to make the codes more reusable , maintainable and cleaner
+   * Finish the rest pages developing
+   * Add unit testing cases
+   * Using sass to replace css
+   * Module to make the codes more reusable , maintainable and cleaner
 
 ## How to run
  * download the backend project from the link
