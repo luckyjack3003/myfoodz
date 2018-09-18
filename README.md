@@ -1,23 +1,26 @@
-## react-redux-router4-saga-authorisation
-![Alt text](https://github.com/luckyjack3003/myfoodz/blob/master/public/images/Screenshot%20from%202018-09-18%2018-02-26.png)
-## Features
+## I am inspired by https://youfoodz.com to do this open source project
+  ** The skill framework is react1.6 , redux(saga) and router4
+  ** This is the first version and I spent about 3 hours to write the project and its backend project to provide API Services.
+  ** The backend project is using nodejs,express and mongodb framework.
+  ** Responsive design for desktop , pad and mobile.
+  ** Using css3 animation
+  ** Axios is ajax library
+  ** Below is the screenshot of this page.
 
-* Powered by [react][] **16.4.2** & [redux][] **5.0.7** & [react-router-dom][] **5.0.7**
-* Authentication
-* A simple own redux
-* Logout
+![Navigation](https://github.com/luckyjack3003/myfoodz/blob/master/public/images/Screenshot%20from%202018-09-18%2018-02-26.png)
+![Card](https://github.com/luckyjack3003/myfoodz/blob/master/public/images/Screenshot%20from%202018-09-18%2018-02-57.png)
+![Footer](https://github.com/luckyjack3003/myfoodz/blob/master/public/images/Screenshot%20from%202018-09-18%2018-03-36.png)
 
-## Notes
-
- * cannot visity /client until we are logged in. Clicking the "Login" button will simulate a login by setting Redux state.
- * visit any route will redirect /auth/login page if you are not logged.
- * on /client page, by clicking 'Request a photo'button will request an ajax request by using redux saga middleware.
- * /client/myRedux page is an simple example for showing how to make an own redux store inspired by learning redux sourccode and tutorials.
- * logout is to show how to clear sessionStorage and react-router do programtically navigation.
+## The plan in the future
+   ** Finish the rest pages developing
+   ** Add unit testing cases
+   ** Using sass to replace css
+   ** Module to make the codes more reusable , maintainable and cleaner
 
 ## How to run
+ * download the backend project from the link
 
- * git clone https://github.com/luckyjack3003/react-redux-router-saga-authorisation.git
+ * git clone https://github.com/luckyjack3003/myfoodz.git
  * npm install
  * npm start
 
